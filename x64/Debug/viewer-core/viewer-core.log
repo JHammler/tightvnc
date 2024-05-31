@@ -1,0 +1,41 @@
+﻿  AuthHandler.cpp
+  CapabilitiesManager.cpp
+  CapsContainer.cpp
+  CoreEventsAdapter.cpp
+  CursorPainter.cpp
+  DecoderOfRectangle.cpp
+  FbUpdateNotifier.cpp
+  FileTransferCapability.cpp
+  LastRectDecoder.cpp
+  PseudoDecoder.cpp
+  RawDecoder.cpp
+  RemoteViewerCore.cpp
+  RfbClientToServerMessage.cpp
+  RfbCutTextEventClientMessage.cpp
+  RfbFramebufferUpdateRequestClientMessage.cpp
+  RfbKeyEventClientMessage.cpp
+  RfbPointerEventClientMessage.cpp
+  RfbSetEncodingsClientMessage.cpp
+  RfbSetPixelFormatClientMessage.cpp
+  TcpConnection.cpp
+  Generating Code...
+  Compiling...
+  UpdateRequestSender.cpp
+  VncAuthentication.cpp
+  CompressionLevel.cpp
+  CopyRectDecoder.cpp
+  Decoder.cpp
+  DecoderStore.cpp
+  DesktopSizeDecoder.cpp
+  HexTileDecoder.cpp
+  JpegDecompressor.cpp
+  JpegQualityLevel.cpp
+  PointerPosDecoder.cpp
+  RichCursorDecoder.cpp
+  RreDecoder.cpp
+  TightDecoder.cpp
+  VncAuthenticationHandler.cpp
+  WatermarksController.cpp
+  ZrleDecoder.cpp
+  Generating Code...
+  viewer-core.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\viewer-core.lib

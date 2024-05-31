@@ -1,0 +1,11 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ZombieKiller.cpp
+  ThreadCollector.cpp
+  Thread.cpp
+  LocalMutex.cpp
+  GuiThread.cpp
+  GlobalMutex.cpp
+  DesktopSelector.cpp
+  AutoLock.cpp
+  Generating Code...
+  thread.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread.lib

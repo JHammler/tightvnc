@@ -1,0 +1,14 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  OutputStream.cpp
+  IOException.cpp
+  InputStream.cpp
+  DataOutputStream.cpp
+  DataInputStream.cpp
+  DataCopy.cpp
+  Channel.cpp
+  ByteArrayOutputStream.cpp
+  ByteArrayInputStream.cpp
+  BufferedOutputStream.cpp
+  BufferedInputStream.cpp
+  Generating Code...
+  io-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\io-lib.lib

@@ -1,0 +1,5 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  FileTransferSecurity.cpp
+  FileTransferRequestHandler.cpp
+  Generating Code...
+  ft-server-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\ft-server-lib.lib

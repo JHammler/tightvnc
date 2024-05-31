@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ParentWatcher.cpp
+  HookLoaderApplication.cpp
+  hookldr.cpp
+  Generating Code...
+  hookldr.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\hookldr.exe

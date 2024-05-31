@@ -1,0 +1,9 @@
+C:\Users\user\Documents\GitHub\tightvnc\network\socket\SocketAddressIPv4.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\SocketAddressIPv4.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\socket\SocketException.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\SocketException.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\socket\SocketIPv4.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\SocketIPv4.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\socket\SocketStream.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\SocketStream.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\socket\WindowsSocket.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\WindowsSocket.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\RfbInputGate.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\RfbInputGate.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\RfbOutputGate.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\RfbOutputGate.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\TcpClientThread.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\TcpClientThread.obj
+C:\Users\user\Documents\GitHub\tightvnc\network\TcpServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\network\TcpServer.obj

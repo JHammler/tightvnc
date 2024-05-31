@@ -1,0 +1,42 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  UpdateRemoteConfigCommand.cpp
+  UpdateLocalConfigCommand.cpp
+  TransportFactory.cpp
+  Transport.cpp
+  SocketIPv4Transport.cpp
+  ShutdownCommand.cpp
+  ShareWindowCommand.cpp
+  ShareRectCommand.cpp
+  SharePrimaryCommand.cpp
+  ShareFullCommand.cpp
+  ShareDisplayCommand.cpp
+  ShareAppCommand.cpp
+  SetPasswordsDialog.cpp
+  RfbClientInfo.cpp
+  RemoteException.cpp
+  ReloadConfigCommand.cpp
+  OutgoingConnectionDialog.cpp
+  Notificator.cpp
+  NamedPipeTransport.cpp
+  MakeRfbConnectionCommand.cpp
+  Generating Code...
+  Compiling...
+  DisconnectAllCommand.cpp
+  ControlTrayIcon.cpp
+  ControlProxy.cpp
+  ControlPipeName.cpp
+  ControlMessage.cpp
+  ControlGate.cpp
+  ControlCommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  ControlCommand.cpp
+  ControlAuthException.cpp
+  ControlAuthDialog.cpp
+  ControlAuth.cpp
+  ControlApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  ConnectStringParser.cpp
+  ConnectCommand.cpp
+  AboutDialog.cpp
+  Generating Code...
+  tvncontrol-app.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\tvncontrol-app.lib

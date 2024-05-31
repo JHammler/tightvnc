@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ViewerSettingsManager.cpp
+  ViewerConfig.cpp
+  ConnectionConfigSM.cpp
+  ConnectionConfig.cpp
+  Generating Code...
+  client-config-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\client-config-lib.lib

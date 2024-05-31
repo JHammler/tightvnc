@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ViewPortState.cpp
+  ViewPort.cpp
+  UpdSenderMsgDefs.cpp
+  UpdateSender.cpp
+C:\Users\user\Documents\GitHub\tightvnc\fb-update-sender\UpdateSender.cpp(992,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CursorUpdates.cpp
+  Generating Code...
+  fb-update-sender.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\fb-update-sender.lib

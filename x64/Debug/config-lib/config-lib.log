@@ -1,0 +1,7 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SettingsManager.cpp
+  RegistrySettingsManager.cpp
+  IniFileSettingsManager.cpp
+  ConnectionHistory.cpp
+  Generating Code...
+  config-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\config-lib.lib

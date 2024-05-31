@@ -1,0 +1,8 @@
+C:\Users\user\Documents\GitHub\tightvnc\thread\AutoLock.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\AutoLock.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\DesktopSelector.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\DesktopSelector.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\GlobalMutex.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\GlobalMutex.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\GuiThread.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\GuiThread.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\LocalMutex.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\LocalMutex.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\Thread.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\Thread.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\ThreadCollector.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\ThreadCollector.obj
+C:\Users\user\Documents\GitHub\tightvnc\thread\ZombieKiller.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\thread\ZombieKiller.obj

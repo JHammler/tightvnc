@@ -1,0 +1,9 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ProfileLogger.cpp
+C:\Users\user\Documents\GitHub\tightvnc\log-writer\ProfileLogger.cpp(60,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LogWriter.cpp
+  LogDump.cpp
+  FileLogger.cpp
+  FileAccount.cpp
+  Generating Code...
+  log-writer.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-writer.lib

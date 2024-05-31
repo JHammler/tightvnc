@@ -1,0 +1,8 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Region.cpp
+  RectSerializer.cpp
+C:\Users\user\Documents\GitHub\tightvnc\region\RectSerializer.cpp(42,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  x11region.c
+  region.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\region.lib

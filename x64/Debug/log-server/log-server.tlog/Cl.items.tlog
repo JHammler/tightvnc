@@ -1,0 +1,8 @@
+C:\Users\user\Documents\GitHub\tightvnc\log-server\ClientLogger.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\ClientLogger.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\ConnectionTimer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\ConnectionTimer.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\ListenLogServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\ListenLogServer.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\LogConn.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\LogConn.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\LogLevelSender.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\LogLevelSender.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\LogServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\LogServer.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\SecurityPipeClient.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\SecurityPipeClient.obj
+C:\Users\user\Documents\GitHub\tightvnc\log-server\SecurityPipeServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server\SecurityPipeServer.obj

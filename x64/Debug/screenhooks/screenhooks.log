@@ -1,0 +1,4 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ScreenHooks.cpp
+     Creating library C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\screenhooks64.lib and object C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\screenhooks64.exp
+  screenhooks.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\screenhooks64.dll

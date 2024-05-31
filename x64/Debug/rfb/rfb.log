@@ -1,0 +1,15 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  PixelConverter.cpp
+  EncodingDefs.cpp
+  VendorDefs.cpp
+  TunnelDefs.cpp
+  StandardPixelFormatFactory.cpp
+  RfbKeySym.cpp
+  PixelFormat.cpp
+  MsgDefs.cpp
+  HostPath.cpp
+  FrameBuffer.cpp
+  CursorShape.cpp
+  AuthDefs.cpp
+  Generating Code...
+  rfb.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\rfb.lib

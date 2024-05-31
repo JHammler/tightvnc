@@ -1,0 +1,14 @@
+﻿  ConfigurationDialog.cpp
+  ConnectionListener.cpp
+  ControlTrayIcon.cpp
+  DesktopWindow.cpp
+  LoginDialog.cpp
+  TvnViewer.cpp
+  ViewerCollector.cpp
+  ViewerInstance.cpp
+  ViewerWindow.cpp
+C:\Users\user\Documents\GitHub\tightvnc\tvnviewer\ViewerWindow.cpp(1256,40): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+C:\Users\user\Documents\GitHub\tightvnc\tvnviewer\ViewerWindow.cpp(1258,40): warning C4244: 'argument': conversion from 'WPARAM' to 'UINT', possible loss of data
+  main.cpp
+  Generating Code...
+  tvnviewer.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\tvnviewer.exe

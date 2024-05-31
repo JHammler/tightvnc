@@ -1,0 +1,8 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  viewer-keysym-test.cpp
+  KeySymTest.cpp
+C:\Users\user\Documents\GitHub\tightvnc\viewer-keysym-test\KeySymTest.cpp(43,13): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\viewer-keysym-test\KeySymTest.cpp(49,11): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\viewer-keysym-test\KeySymTest.cpp(86,25): warning C4312: 'type cast': conversion from 'unsigned int' to 'HKL' of greater size
+  Generating Code...
+  viewer-keysym-test.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\viewer-keysym-test.exe

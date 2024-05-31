@@ -1,0 +1,16 @@
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\BlockingGate.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\BlockingGate.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\BlockingInputGate.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\BlockingInputGate.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\BlockingOutputGate.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\BlockingOutputGate.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\ClientListener.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\ClientListener.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\ConfigServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\ConfigServer.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\DesktopConfigClient.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\DesktopConfigClient.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\DesktopServerProto.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\DesktopServerProto.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\DesktopSrvDispatcher.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\DesktopSrvDispatcher.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\GateKicker.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\GateKicker.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\GateKickHandler.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\GateKickHandler.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\ReconnectException.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\ReconnectException.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\ReconnectingChannel.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\ReconnectingChannel.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\UpdateHandlerClient.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\UpdateHandlerClient.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\UpdateHandlerServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\UpdateHandlerServer.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\UserInputClient.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\UserInputClient.obj
+C:\Users\user\Documents\GitHub\tightvnc\desktop-ipc\UserInputServer.cpp;C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc\UserInputServer.obj

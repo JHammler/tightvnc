@@ -1,0 +1,44 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WindowProcHolder.cpp
+  WindowFinder.cpp
+  Trackbar.cpp
+  Tooltip.cpp
+  ToolBar.cpp
+C:\Users\user\Documents\GitHub\tightvnc\gui\ToolBar.cpp(56,34): warning C4312: 'reinterpret_cast': conversion from 'int' to 'HMENU' of greater size
+  ThemeLib.cpp
+  TextBox.cpp
+  TabControl.cpp
+  Tab.cpp
+  StringFilter.cpp
+  SpinControl.cpp
+  ScrollBar.cpp
+  SolidBrush.cpp
+  ProgressBar.cpp
+  PaintWindow.cpp
+  Pen.cpp
+  NotifyIconWindow.cpp
+  NotifyIcon.cpp
+  MessageWindow.cpp
+  Menu.cpp
+  Generating Code...
+  Compiling...
+  ListView.cpp
+  ListBox.cpp
+  ImagedButton.cpp
+  Icon.cpp
+  Graphics.cpp
+  FilteredTextBox.cpp
+  DeviceContext.cpp
+  Control.cpp
+  CommonControlsEx.cpp
+  ComboBox.cpp
+  CheckBox.cpp
+  Brush.cpp
+  BitmapGraphics.cpp
+  Bitmap.cpp
+  DibFrameBuffer.cpp
+  BaseWindow.cpp
+  BaseDialog.cpp
+  BalloonTip.cpp
+  Generating Code...
+  gui.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\gui.lib

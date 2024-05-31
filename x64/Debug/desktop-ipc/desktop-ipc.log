@@ -1,0 +1,19 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  UserInputServer.cpp
+  UserInputClient.cpp
+  UpdateHandlerServer.cpp
+  UpdateHandlerClient.cpp
+  ReconnectingChannel.cpp
+  ReconnectException.cpp
+  GateKickHandler.cpp
+  GateKicker.cpp
+  DesktopSrvDispatcher.cpp
+  DesktopServerProto.cpp
+  DesktopConfigClient.cpp
+  ConfigServer.cpp
+  ClientListener.cpp
+  BlockingOutputGate.cpp
+  BlockingInputGate.cpp
+  BlockingGate.cpp
+  Generating Code...
+  desktop-ipc.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop-ipc.lib

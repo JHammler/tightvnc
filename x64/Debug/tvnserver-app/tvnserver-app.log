@@ -1,0 +1,44 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WsConfigRunner.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  WinEventLogWriter.cpp
+  TvnService.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  TvnServerListener.cpp
+  TvnServerHelp.cpp
+  TvnServerApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  TvnServer.cpp
+  SessionChangesWatcher.cpp
+  ServiceControlCommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  ServiceControlApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  ServerCommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  RfbServer.cpp
+  RfbClientManagerEventListener.cpp
+  RfbClientManager.cpp
+  QueryConnectionDialog.cpp
+  QueryConnectionCommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  QueryConnectionApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  OutgoingRfbConnectionThread.cpp
+  NamingDefs.cpp
+  ExtraRfbServers.cpp
+  Generating Code...
+  Compiling...
+  DesktopServerCommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  DesktopServerApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  CrashHook.cpp
+  ControlServer.cpp
+  ControlClient.cpp
+  ControlAppAuthenticator.cpp
+  AuthTracker.cpp
+  AdditionalActionApplication.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  Generating Code...
+  tvnserver-app.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\tvnserver-app.lib

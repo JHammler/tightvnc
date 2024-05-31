@@ -1,0 +1,6 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MsiProperties.cpp
+  CustomAction.cpp
+  Generating Code...
+     Creating library C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\setup-helper.lib and object C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\setup-helper.exp
+  setup-helper.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\setup-helper.dll

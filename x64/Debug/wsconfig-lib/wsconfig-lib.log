@@ -1,0 +1,19 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  VideoRegionsConfigDialog.cpp
+  UIDataAccess.cpp
+  TvnLogFilename.cpp
+  ServerConfigDialog.cpp
+  PortMappingDialog.cpp
+  PasswordControl.cpp
+  IpAccessControlDialog.cpp
+C:\Users\user\Documents\GitHub\tightvnc\wsconfig-lib\IpAccessControlDialog.cpp(391,23): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  EditPortMappingDialog.cpp
+  EditIpAccessRuleDialog.cpp
+C:\Users\user\Documents\GitHub\tightvnc\wsconfig-lib\EditIpAccessRuleDialog.cpp(200,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\wsconfig-lib\EditIpAccessRuleDialog.cpp(201,30): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  ConfigDialog.cpp
+  CommonInputValidation.cpp
+  ChangePasswordDialog.cpp
+  AdministrationConfigDialog.cpp
+  Generating Code...
+  wsconfig-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\wsconfig-lib.lib

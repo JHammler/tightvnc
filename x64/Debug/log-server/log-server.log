@@ -1,0 +1,11 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  SecurityPipeServer.cpp
+  SecurityPipeClient.cpp
+  LogServer.cpp
+  LogLevelSender.cpp
+  LogConn.cpp
+  ListenLogServer.cpp
+  ConnectionTimer.cpp
+  ClientLogger.cpp
+  Generating Code...
+  log-server.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\log-server.lib

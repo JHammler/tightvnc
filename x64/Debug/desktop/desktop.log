@@ -1,0 +1,81 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WinVideoRegionUpdaterImpl.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\WinVideoRegionUpdaterImpl.cpp(91,25): warning C4244: 'initializing': conversion from 'UINT64' to 'unsigned int', possible loss of data
+  WinServiceDesktopFactory.cpp
+  WinD3D11Texture2D.cpp
+  WinDxgiSurface.cpp
+  WinDxgiDevice.cpp
+  WinDxgiAdapter.cpp
+  WinD3D11Device.cpp
+  WindowsUserInput.cpp
+  WindowsScreenGrabber.cpp
+  WindowsCursorShapeGrabber.cpp
+  WindowsInputBlocker.cpp
+  WindowsClipboard.cpp
+  WinCustomD3D11Texture2D.cpp
+  WinAutoMapDxgiSurface.cpp
+  Win8ScreenDriverImpl.cpp
+  Win8ScreenDriver.cpp
+  Win32ScreenDriverFactory.cpp
+  Win32ScreenDriverBaseImpl.cpp
+  Win32ScreenDriver.cpp
+  Win32MirrorScreenDriver.cpp
+  Generating Code...
+  Compiling...
+  WallpaperUtil.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\WallpaperUtil.cpp(88,80): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+  UserInput.cpp
+  UpdateSendingListener.cpp
+  UpdateListener.cpp
+  UpdateKeeper.cpp
+  UpdateHandlerImpl.cpp
+  UpdateHandler.cpp
+  UpdateFilter.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\UpdateFilter.cpp(92,13): warning C4244: 'initializing': conversion from 'UINT64' to 'double', possible loss of data
+C:\Users\user\Documents\GitHub\tightvnc\desktop\UpdateFilter.cpp(117,24): warning C4244: '=': conversion from 'UINT64' to 'double', possible loss of data
+  UpdateDetector.cpp
+  UpdateContainer.cpp
+  ScreenGrabber.cpp
+  SasUserInput.cpp
+  Poller.cpp
+  CursorShapeDetector.cpp
+  CursorShapeGrabber.cpp
+  CursorPositionDetector.cpp
+  MirrorScreenDriver.cpp
+  MirrorDriverClient.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\MirrorDriverClient.cpp(423,15): warning C4311: 'type cast': pointer truncation from 'HWND' to 'int'
+C:\Users\user\Documents\GitHub\tightvnc\desktop\MirrorDriverClient.cpp(423,15): warning C4302: 'type cast': truncation from 'HWND' to 'int'
+  InputBlocker.cpp
+  HookUpdateTimer.cpp
+  Generating Code...
+  Compiling...
+  HooksUpdateDetector.cpp
+  HookInstaller.cpp
+  GrabOptimizator.cpp
+  WinDxRecoverableException.cpp
+  WinDxgiOutputDuplication.cpp
+  WinDxgiOutput1.cpp
+  WinDxgiOutput.cpp
+  WinDxgiAcquiredFrame.cpp
+  WinDxException.cpp
+  WinDxCriticalException.cpp
+  WinCursorShapeUtils.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\WinCursorShapeUtils.cpp(147,21): warning C4018: '<': signed/unsigned mismatch
+  Win8DeskDuplicationThread.cpp
+C:\Users\user\Documents\GitHub\tightvnc\desktop\Win8DeskDuplicationThread.cpp(316,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Win8CursorShape.cpp
+  DummyScreenDriver.cpp
+  DesktopWinImpl.cpp
+  DesktopServerWatcher.cpp
+  DesktopConfigLocal.cpp
+  DesktopClientImpl.cpp
+  DesktopBaseImpl.cpp
+  CopyRectDetector.cpp
+  Generating Code...
+  Compiling...
+  ConsolePoller.cpp
+  ClipboardListener.cpp
+  ApplicationDesktopFactory.cpp
+  Generating Code...
+d3d11.lib(d3d11.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in dxgi.lib(dxgi.dll); second definition ignored
+  desktop.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\desktop.lib

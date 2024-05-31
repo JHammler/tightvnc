@@ -1,0 +1,40 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ZlibException.cpp
+  ZLibBase.cpp
+  VncPassCrypt.cpp
+  Utf8StringStorage.cpp
+  UnicodeStringStorage.cpp
+  Unicode.cpp
+  StringTable.cpp
+  StringStorage.cpp
+  StringParser.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\StringParser.cpp(33,6): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\util\StringParser.cpp(73,6): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\util\StringParser.cpp(92,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\util\StringParser.cpp(105,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\util\StringParser.cpp(118,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ResourceLoader.cpp
+  MemUsage.cpp
+  md5.cpp
+  MacroCommand.cpp
+  Keymap.cpp
+  KeyContainer.cpp
+  Inflater.cpp
+  GetCPUtime.cpp
+  Exception.cpp
+  DesCrypt.cpp
+  DemandTimer.cpp
+  Generating Code...
+  Compiling...
+  Deflater.cpp
+  DateTime.cpp
+  CommandLineFormatHelp.cpp
+  CommandLineFormatException.cpp
+  CommandLineArgs.cpp
+  CommandLine.cpp
+C:\Users\user\Documents\GitHub\tightvnc\util\CommandLine.h(32,14): warning C4091: 'typedef ': ignored on left of 'UseArgument' when no variable is declared
+  Command.cpp
+  BrokenHandleException.cpp
+  AnsiStringStorage.cpp
+  Generating Code...
+  util.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\util.lib

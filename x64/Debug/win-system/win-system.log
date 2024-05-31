@@ -1,0 +1,65 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  WTS.cpp
+  WsaStartup.cpp
+  Workstation.cpp
+  WinTimeMillis.cpp
+  WinStaLibrary.cpp
+  WinProcessCommandLine.cpp
+  WinHooks.cpp
+  WinHandles.cpp
+  WindowsEventEx.cpp
+  WindowsEvent.cpp
+  WindowsDisplays.cpp
+  WindowsApplication.cpp
+  WinCursor.cpp
+  WinCommandLineArgs.cpp
+  WinClipboard.cpp
+  VersionInfo.cpp
+  UipiControl.cpp
+  SystemInformation.cpp
+  SystemException.cpp
+  Shell.cpp
+C:\Users\user\Documents\GitHub\tightvnc\win-system\Shell.cpp(56,13): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\user\Documents\GitHub\tightvnc\win-system\Shell.cpp(56,13): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+  Generating Code...
+  Compiling...
+  SharedMemory.cpp
+  Service.cpp
+  SecurityIdentifier.cpp
+  SecurityDescriptor.cpp
+  SecurityAttributes.cpp
+  Screen.cpp
+  SCMClient.cpp
+  RegistryKey.cpp
+  Registry.cpp
+  ProcessHandle.cpp
+  Process.cpp
+  PipeServer.cpp
+  PipeImpersonatedThread.cpp
+  PipeClient.cpp
+  Pipe.cpp
+  ParentProcess.cpp
+  NamedPipe.cpp
+  LocalWindowsApplication.cpp
+  Keyboard.cpp
+  InputInjector.cpp
+C:\Users\user\Documents\GitHub\tightvnc\win-system\InputInjector.cpp(168,54): warning C4311: 'type cast': pointer truncation from 'HKL' to 'int'
+C:\Users\user\Documents\GitHub\tightvnc\win-system\InputInjector.cpp(168,54): warning C4302: 'type cast': truncation from 'HKL' to 'int'
+C:\Users\user\Documents\GitHub\tightvnc\win-system\InputInjector.cpp(312,30): warning C4311: 'type cast': pointer truncation from 'HKL' to 'unsigned int'
+C:\Users\user\Documents\GitHub\tightvnc\win-system\InputInjector.cpp(312,30): warning C4302: 'type cast': truncation from 'HKL' to 'unsigned int'
+  Generating Code...
+  Compiling...
+  Impersonator.cpp
+  Environment.cpp
+C:\Users\user\Documents\GitHub\tightvnc\win-system\Environment.cpp(180,10): warning C4996: 'GetVersionExW': was declared deprecated
+  EmulatedAnonymousPipeFactory.cpp
+  DynamicLibrary.cpp
+  DibSection.cpp
+  CurrentConsoleProcess.cpp
+  CtrlAltDelSimulator.cpp
+  AutoImpersonator.cpp
+  AnonymousPipeFactory.cpp
+  AnonymousPipe.cpp
+  Generating Code...
+psapi.lib(PSAPI.DLL) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in Wtsapi32.lib(WTSAPI32.dll); second definition ignored
+  win-system.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\win-system.lib

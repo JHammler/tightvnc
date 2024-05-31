@@ -1,0 +1,25 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ServerConfig.cpp
+  RegistrySecurityAttributes.cpp
+  PortMappingRect.cpp
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\PortMappingRect.cpp(51,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PortMappingContainer.cpp
+  PortMapping.cpp
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\PortMapping.cpp(105,8): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  IpAccessRule.cpp
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(67,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(91,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(116,7): warning C4996: 'swscanf': This function or variable may be unsafe. Consider using swscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(166,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(170,14): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(243,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(244,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(251,36): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\IpAccessRule.cpp(255,35): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  IpAccessControl.cpp
+  Configurator.cpp
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\Configurator.cpp(515,18): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\tightvnc\server-config-lib\Configurator.cpp(524,13): warning C4996: '_wcstok': This function or variable may be unsafe. Consider using wcstok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ConfigReloadListener.cpp
+  Generating Code...
+  server-config-lib.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\server-config-lib.lib

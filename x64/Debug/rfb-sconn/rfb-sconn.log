@@ -1,0 +1,21 @@
+﻿cl : command line  warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  ZrleEncoder.cpp
+  TightPalette.cpp
+  TightEncoder.cpp
+  RreEncoder.cpp
+  RfbInitializer.cpp
+  RfbDispatcher.cpp
+  RfbCodeRegistrator.cpp
+  RfbClient.cpp
+  JpegEncoder.cpp
+  JpegCompressor.cpp
+  HextileEncoder.cpp
+  EncoderStore.cpp
+  Encoder.cpp
+  EncodeOptions.cpp
+  EchoExtensionRequestHandler.cpp
+  ClipboardExchange.cpp
+  ClientInputHandler.cpp
+  CapContainer.cpp
+  Generating Code...
+  rfb-sconn.vcxproj -> C:\Users\user\Documents\GitHub\tightvnc\x64\Debug\rfb-sconn.lib
